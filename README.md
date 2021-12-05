@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iotbyanurag : access my iportfolio here: https://iotbyanurag.github.io/Anurag-Portfolio/
+- 👋 Hi, I’m anurag : access my iportfolio here: https://iotbyanurag.github.io/Anurag-Portfolio/
 - 👀 I’m interested in ... "COMPUTATIONAL THEORY OF MIND (CTM)"
 - 🌱 I’m currently learning ... how machines are made to learn 😎 i.e. MACHINE LEARNING and Edge AI
 - 💞️ I’m looking to collaborate on ... STARTING UP A COOL CONSUMER ELECTRONICS PRODUCT LINE
